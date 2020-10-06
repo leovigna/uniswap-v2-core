@@ -1,2 +1,6 @@
+# Custom
+migrations
+types
+# Default
 node_modules/
 build/
